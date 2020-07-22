@@ -6,11 +6,16 @@
 
 - Full-Stack focused in C#  | Software engineer :robot:
 
-- 🐶 I love animals [my dog Hércules](https://www.instagram.com/p/ByvEdi8gvXb/).
+- I love animals, [my dog Hércules](https://www.instagram.com/p/ByvEdi8gvXb/). 🐶 
 
 - Lover of Technology and coding :heart:
 
+## Technical skills
 
+- C#, .NET
+- JavaScript, TypeScript, Angular
+- Html5, CSS3(Boostrap, Sass)
+- Docker, Git, MySql ,Solid, DDD, 
 
 ## About me 
 
