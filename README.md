@@ -1,7 +1,7 @@
 <img align="right" width="400" height="400" src="https://media.giphy.com/media/Xev2JdopBxGj1LuGvt/giphy.gif">
 
 
-# Welcome!
+# :pushpin: Welcome!
 ## I'm Rafael Buttignon! Let me present a little about myself ✨
 
 - Full-Stack focused in C#  | Software engineer :robot:
@@ -17,7 +17,7 @@
 - Html5, CSS3(Boostrap, Sass)
 - Docker, Git, MySql, Solid, DDD, 
 
-## About me 
+## :eye_speech_bubble: About me 
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/rafael-buttignon)](https://github.com/rafael-buttignon)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-augusto-buttignon-6b120a171/)](https://www.linkedin.com/in/rafael-augusto-buttignon-6b120a171/)
