@@ -26,5 +26,6 @@
 
 - Thanks for visiting. 
 
-<i>Errei mais de 9.000 cestas e perdi quase 300 jogos. Em 26 diferentes finais de partidas fui encarregado de jogar a bola que venceria o jogo… e falhei. Eu tenho uma história repleta de falhas e fracassos em minha vida. E é exatamente por isso que sou um sucesso.  -    Michael Jordan</i>
+<i>“I've missed more than 9000 shots in my career. I've lost almost 300 games. 26 times, I've been trusted to take the game winning shot and missed. I've failed over and over and over again in my life. And that is why I succeed.”
+― Michael jordan</i>
 
