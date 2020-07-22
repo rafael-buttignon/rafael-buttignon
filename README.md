@@ -10,7 +10,7 @@
 
 - Lover of Technology and coding :heart:
 
-## Technical skills
+## :triangular_flag_on_post: Technical skills
 
 - C# & .NET
 - JavaScript, TypeScript, Angular
