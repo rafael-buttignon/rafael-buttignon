@@ -2,13 +2,13 @@
 
 
 # Welcome!
-## I'm Rafael Buttignon! Let me present a little about myself :D
+## I'm Rafael Buttignon! Let me present a little about myself ✨
 
-Full-Stack focused in C#  | Software engineer :robot:
+- Full-Stack focused in C#  | Software engineer :robot:
 
-Writer on OneBitCode Blog :man_technologist:
+- 🐶 I love animals [my dog Hércules](https://www.instagram.com/p/ByvEdi8gvXb/).
 
-Lover of Technology and coding :heart:
+- Lover of Technology and coding :heart:
 
 
 
@@ -20,4 +20,4 @@ Lover of Technology and coding :heart:
 
 
 - Thanks for visiting. 
-- Enjoy it!! o/
+- Enjoy it!! 👋
