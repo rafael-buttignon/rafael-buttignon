@@ -21,7 +21,7 @@
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/rafael-buttignon)](https://github.com/rafael-buttignon)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-augusto-buttignon-6b120a171/)](https://www.linkedin.com/in/rafael-augusto-buttignon-6b120a171/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Lucassiqueirafernandes07@gmail.com)](mailto:Lucassiqueirafernandes07@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Rafaaugustocontato@gmail.com)](mailto:Rafaaugustocontato@gmail.com)
 
 
 - Thanks for visiting. 
