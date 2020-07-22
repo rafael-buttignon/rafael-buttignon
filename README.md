@@ -12,10 +12,10 @@
 
 ## Technical skills
 
-- C#, .NET
+- C# & .NET
 - JavaScript, TypeScript, Angular
 - Html5, CSS3(Boostrap, Sass)
-- Docker, Git, MySql ,Solid, DDD, 
+- Docker, Git, MySql, Solid, DDD, 
 
 ## About me 
 
