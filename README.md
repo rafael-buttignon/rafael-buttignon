@@ -12,10 +12,10 @@
 
 ## :triangular_flag_on_post: Technical skills
 
-- C# & .NET
+- C#, .NET Core, ASP NET
 - JavaScript, TypeScript, Angular
 - Html5, CSS3(Boostrap, Sass)
-- Docker, Git, MySql, Solid, DDD, Scrum
+- Docker, Git, MySql, Solid, DDD, Agile(Scrum)
 
 ## :eye_speech_bubble: About me 
 
