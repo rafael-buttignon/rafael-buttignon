@@ -23,7 +23,8 @@
 
 - 👨🏽‍💻 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 𝚒𝚖𝚙𝚛𝚘𝚟𝚒𝚗𝚐 𝚖𝚢 𝚝𝚎𝚌𝚑𝚜𝚔𝚒𝚕𝚕;
 - 🌱 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 C#; 
-- 👯 𝙸’𝚖 want obtain the Microsoft Exam 70-483(Programming in Microsoft C#)
+- 👯 𝙸’𝚖 want obtain the Microsoft Exam 
+      70-483(Programming in Microsoft C#)
 - 💬 𝙰𝚜𝚔 𝚖𝚎 𝚊𝚋𝚘𝚞𝚝 𝚊𝚗𝚢𝚝𝚑𝚒𝚗𝚐, 𝙸 𝚊𝚖 𝚑𝚊𝚙𝚙𝚢 𝚝𝚘 𝚑𝚎𝚕𝚙;
 - ⚡️ 𝙵𝚞𝚗-𝙵𝚊𝚌𝚝: 𝙰𝚗𝚢𝚝𝚑𝚒𝚗𝚐 𝚒𝚜 𝚙𝚘𝚜𝚜𝚒𝚋𝚕𝚎;
 - 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎: rafaaugustocontato@𝚐𝚖𝚊𝚒𝚕.𝚌𝚘𝚖;
@@ -32,7 +33,7 @@
 
 <html>
       <dl>
-         <dt>Frameworks or Technologies :</dt>
+         <dt>Languages, Frameworks or Technologies :</dt>
          <dd>C#, .Net Framework, .Net Core, Asp.Net, Microservices,
                   JavaScript, TypeScript, HTML5, CSS3, 
                   Angular 5+, Bootstrap, Sass, Git,
