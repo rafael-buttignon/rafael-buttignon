@@ -27,15 +27,15 @@
 - 💬 𝙰𝚜𝚔 𝚖𝚎 𝚊𝚋𝚘𝚞𝚝 𝚊𝚗𝚢𝚝𝚑𝚒𝚗𝚐, 𝙸 𝚊𝚖 𝚑𝚊𝚙𝚙𝚢 𝚝𝚘 𝚑𝚎𝚕𝚙;
 - ⚡️ 𝙵𝚞𝚗-𝙵𝚊𝚌𝚝: 𝙰𝚗𝚢𝚝𝚑𝚒𝚗𝚐 𝚒𝚜 𝚙𝚘𝚜𝚜𝚒𝚋𝚕𝚎;
 - 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎: rafaaugustocontato@𝚐𝚖𝚊𝚒𝚕.𝚌𝚘𝚖;
-
 **Languages and Tools:**  
 
 <html>
       <dl align="center">
          <dt>Frameworks or Technologies :</dt>
-         <dd>- C#, .Net Framework, .Net Core, Asp.Net, Microservices,
-                  JavaScript, TypeScript, HTML5, CSS3, Angular 5+, 
-                  Bootstrap, Sass, Git, MySql, Solid, DDD, Agile(Scrum)
+         <dd>C#, .Net Framework, .Net Core, Asp.Net, Microservices,
+                  JavaScript, TypeScript, HTML5, CSS3, 
+                  Angular 5+, Bootstrap, Sass, Git,
+                  MySql, Solid, DDD, Agile(Scrum)
          </dd>
       </dl>
       <details align="center">
