@@ -52,7 +52,7 @@
             <div>
                <b>
                   <h3>My Spotify</h3>
-                  <a href="https://natemoo-re.rafael-buttignon.vercel.app/now-playing">
+                  <a href="https://now-playing-profile.rafael-buttignon.vercel.app/now-playing?open">
                   <img alt="Now playing Spotify" src="https://spotify-now-playing.vercel.app/api/spotify-now-playing"/>
                   </a>
                </b>
@@ -62,8 +62,7 @@
    </body>
 </html>
 
-<a href="https://now-playing-profile.rafael-buttignon.vercel.app/now-playing?open">
-    <img src="https://MY_VERCEL_DEPLOYMENT_URL/now-playing" width="256" height="64" alt="Now Playing">`
-</a>
+
+
 
 ⭐️ From [Rafael](https://github.com/rafael-buttignon)
