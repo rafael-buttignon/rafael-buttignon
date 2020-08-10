@@ -62,4 +62,8 @@
    </body>
 </html>
 
+<a href="https://now-playing-profile.rafael-buttignon.vercel.app/now-playing?open">
+    <img src="https://MY_VERCEL_DEPLOYMENT_URL/now-playing" width="256" height="64" alt="Now Playing">`
+</a>
+
 ⭐️ From [Rafael](https://github.com/rafael-buttignon)
