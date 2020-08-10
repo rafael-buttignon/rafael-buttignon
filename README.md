@@ -52,7 +52,7 @@
             <div>
                <b>
                   <h3>My Spotify</h3>
-                  <a href="https://spotify-now-playing.vercel.app/api/spotify-now-playing">
+                  <a href="https://natemoo-re.rafael-buttignon.vercel.app/now-playing">
                   <img alt="Now playing Spotify" src="https://spotify-now-playing.vercel.app/api/spotify-now-playing"/>
                   </a>
                </b>
