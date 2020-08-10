@@ -33,9 +33,9 @@
 <html>
       <dl align="center">
          <dt>Frameworks or Technologies :</dt>
-         <dd>- Spring Boot, Spring Security, Microservices,
-            HTML5, CSS3, Angular 5+, Bootstrap, RxJS
-            MongoDB
+         <dd>- C#, .Net Framework, .Net Core, Asp.Net, Microservices,
+                  JavaScript, TypeScript, HTML5, CSS3, Angular 5+, 
+                  Bootstrap, Sass, Git, MySql, Solid, DDD, Agile(Scrum)
          </dd>
       </dl>
       <details align="center">
@@ -44,8 +44,8 @@
             <div>
                <b>
                   <h3>My Stats</h3>
-                  <a href="https://github.com/gauravghongde/github-readme-stats/actions">
-                  <img alt="rafael's github stats" src="https://github-readme-stats-gaurav.vercel.app/api?username=rafael-buttignon&show_icons=true&title_color=4078c0&icon_color=6cc644&text_color=333&bg_color=f5f5f5"/>
+                  <a href="https://github.com/rafael-buttignon/github-readme-stats/actions">
+                  <img alt="rafael's github stats" src="https://github-readme-stats-gaurav.vercel.app/api?username=rafael-                          buttignon&show_icons=true&title_color=4078c0&icon_color=6cc644&text_color=333&bg_color=f5f5f5"/>
                   </a>
                </b>
             </div>
