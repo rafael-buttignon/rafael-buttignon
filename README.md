@@ -30,7 +30,36 @@
 
 **Languages and Tools:**  
 
+<html>
+      <dl align="center">
+         <dt>Frameworks or Technologies :</dt>
+         <dd>- Spring Boot, Spring Security, Microservices,
+            HTML5, CSS3, Angular 5+, Bootstrap, RxJS
+            MongoDB
+         </dd>
+      </dl>
+      <details align="center">
+         <summary><b>More About Me</b><br></summary>
+         <div>
+            <div>
+               <b>
+                  <h3>My Stats</h3>
+                  <a href="https://github.com/gauravghongde/github-readme-stats/actions">
+                  <img alt="rafael's github stats" src="https://github-readme-stats-gaurav.vercel.app/api?username=rafael-buttignon&show_icons=true&title_color=4078c0&icon_color=6cc644&text_color=333&bg_color=f5f5f5"/>
+                  </a>
+               </b>
+            </div>
+            <div>
+               <b>
+                  <h3>My Spotify</h3>
+                  <a href="https://spotify-now-playing.vercel.app/api/spotify-now-playing">
+                  <img alt="Now playing Spotify" src="https://spotify-now-playing.vercel.app/api/spotify-now-playing"/>
+                  </a>
+               </b>
+            </div>
+         </div>
+      </details>
+   </body>
+</html>
 
-![Rafael Buttignon github stats](https://github-readme-stats.vercel.app/api?username=rafael-buttignon&show_icons=true&hide_border=true&theme=dracula)
-
-⭐️ From [rafael-buttignon](https://github.com/rafael-buttignon)
+⭐️ From [Rafael](https://github.com/rafael-buttignon)
