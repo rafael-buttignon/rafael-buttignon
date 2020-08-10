@@ -17,35 +17,20 @@
 
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 
-  <img align="right" alt="GIF" src="https://greekmeleehell.files.wordpress.com/2017/11/gif-4.gif" />
+  <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
   
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 𝚒𝚖𝚙𝚛𝚘𝚟𝚒𝚗𝚐 𝚖𝚢 𝚝𝚎𝚌𝚑𝚜𝚔𝚒𝚕𝚕;
-- 🌱 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 𝚁𝚞𝚜𝚝; 
-- 👯 𝙸’𝚖 𝚕𝚘𝚘𝚔𝚒𝚗𝚐 𝚝𝚘 𝚌𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚎 𝚘𝚗 𝙳𝚎𝚟𝙿𝚘𝚜𝚝;
+- 🌱 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 C#; 
+- 👯 𝙸’𝚖 want obtain the Microsoft Exam 70-483(Programming in Microsoft C#)
 - 💬 𝙰𝚜𝚔 𝚖𝚎 𝚊𝚋𝚘𝚞𝚝 𝚊𝚗𝚢𝚝𝚑𝚒𝚗𝚐, 𝙸 𝚊𝚖 𝚑𝚊𝚙𝚙𝚢 𝚝𝚘 𝚑𝚎𝚕𝚙;
 - ⚡️ 𝙵𝚞𝚗-𝙵𝚊𝚌𝚝: 𝙰𝚗𝚢𝚝𝚑𝚒𝚗𝚐 𝚒𝚜 𝚙𝚘𝚜𝚜𝚒𝚋𝚕𝚎;
-- 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎: 𝚟𝚛𝚠𝚒𝚕𝚕𝚒𝚊𝚖𝚜𝟽𝟷𝟿@𝚐𝚖𝚊𝚒𝚕.𝚌𝚘𝚖;
-- 📝[𝚁𝚎𝚜𝚞𝚖𝚎](𝚑𝚝𝚝𝚙𝚜://𝚟𝚊𝚙𝚘𝚛𝚓𝚊𝚠𝚗.𝚐𝚒𝚝𝚑𝚞𝚋.𝚒𝚘/𝚁𝚎𝚜𝚞𝚖𝚎.𝚑𝚝𝚖𝚕)<--------------
+- 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎: rafaaugustocontato@𝚐𝚖𝚊𝚒𝚕.𝚌𝚘𝚖;
 
 **Languages and Tools:**  
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
+![Rafael Buttignon github stats](https://github-readme-stats.vercel.app/api?username=rafael-buttignon&show_icons=true&hide_border=true&theme=dracula)
 
-
-![Victor's github stats](https://github-readme-stats.vercel.app/api?username=vaporjawn&show_icons=true&hide_border=true&theme=dracula)
-
-⭐️ From [Vaporjawn](https://github.com/vaporjawn)
-### [What is 20XX?](https://gist.github.com/Vaporjawn/b5b21498b3c73b371ec13d673fb53497#file-20xx)
+⭐️ From [rafael-buttignon](https://github.com/rafael-buttignon)
