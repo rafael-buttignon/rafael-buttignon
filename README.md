@@ -29,8 +29,6 @@
 - ⚡️ 𝙵𝚞𝚗-𝙵𝚊𝚌𝚝: 𝙰𝚗𝚢𝚝𝚑𝚒𝚗𝚐 𝚒𝚜 𝚙𝚘𝚜𝚜𝚒𝚋𝚕𝚎;
 - 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎: rafaaugustocontato@𝚐𝚖𝚊𝚒𝚕.𝚌𝚘𝚖;
 
-**Languages and Tools:**  
-
 <html>
       <dl>
          <dt>Languages, Frameworks or Technologies :</dt>
