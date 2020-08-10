@@ -47,7 +47,7 @@
                <b>
                   <h3>My Stats</h3>
                   <a href="https://github.com/rafael-buttignon/github-readme-stats/actions">
-                  <img alt="rafael's github stats" src="https://github-readme-stats-gaurav.vercel.app/api?username=rafael-                          buttignon&show_icons=true&title_color=4078c0&icon_color=6cc644&text_color=333&bg_color=f5f5f5"/>
+                  <img alt="gauravghongde's github stats" src="https://github-readme-stats-gaurav.vercel.app/api?username=rafael-buttignon&show_icons=true&title_color=4078c0&icon_color=6cc644&text_color=333&bg_color=f5f5f5"/>
                   </a>
                </b>
             </div>
