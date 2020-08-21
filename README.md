@@ -35,7 +35,7 @@
          <dd>C#, .Net Framework, .Net Core, Asp.Net, Microservices,
                   JavaScript, TypeScript, HTML5, CSS3, 
                   Angular 5+, Bootstrap, Sass, Git,
-                  MySql, Solid, DDD, Agile(Scrum)
+                  SQL Server, Solid, DDD, Agile(Scrum)
          </dd>
       </dl>
       <details align="center">
