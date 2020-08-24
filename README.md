@@ -48,18 +48,17 @@
                   <img alt="gauravghongde's github stats" src="https://github-readme-stats-gaurav.vercel.app/api?username=rafael-buttignon&show_icons=true&title_color=4078c0&icon_color=6cc644&text_color=333&bg_color=f5f5f5"/>
                   </a>
                   <br>
-                  <br>
+                       <br>
                   <a href="https://github.com/rafael-buttignon/github-profile-views-counter">
                       <img src="https://komarev.com/ghpvc/?username=rafael-buttignon">
                   </a>
+                     <br>
                </b>
             </div>
             <div>
                <b>
-                  <h3>My Spotify</h3>
-                  <a href="https://now-playing-profile.rafael-buttignon.vercel.app/now-playing?open">
-                  <img alt="Now playing Spotify" src="https://spotify-now-playing.vercel.app/api/spotify-now-playing"/>
-                  </a>
+                  <br>
+                      <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
                </b>
             </div>
          </div>
