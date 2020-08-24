@@ -47,6 +47,11 @@
                   <a href="https://github.com/rafael-buttignon/github-readme-stats/actions">
                   <img alt="gauravghongde's github stats" src="https://github-readme-stats-gaurav.vercel.app/api?username=rafael-buttignon&show_icons=true&title_color=4078c0&icon_color=6cc644&text_color=333&bg_color=f5f5f5"/>
                   </a>
+                  <br>
+                  <br>
+                  <a href="https://github.com/rafael-buttignon/github-profile-views-counter">
+                      <img src="https://komarev.com/ghpvc/?username=rafael-buttignon">
+                  </a>
                </b>
             </div>
             <div>
