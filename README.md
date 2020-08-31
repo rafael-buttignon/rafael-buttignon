@@ -17,7 +17,7 @@
 
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/XZVKFzo0JBnKCNXd0E/giphy.gif" width="500" height="320" />
   
 **Talking about Personal Stuffs:**
 
