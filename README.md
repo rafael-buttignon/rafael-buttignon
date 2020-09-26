@@ -55,12 +55,6 @@
                      <br>
                </b>
             </div>
-            <div>
-               <b>
-                  <br>
-                      <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
-               </b>
-            </div>
          </div>
       </details>
    </body>
