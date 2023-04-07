@@ -33,7 +33,7 @@
 <html>
       <dl>
          <dt>Languages, Frameworks or Technologies :</dt>
-         <dd>Python,C#, .Net Framework, .Net Core, Asp.Net, Microservices,
+         <dd>Python, C#, .Net Framework, .Net Core, Asp.Net, Microservices,
                   JavaScript, TypeScript, HTML5, CSS3, 
                   Angular 5+, Bootstrap, Sass, Git,
                   SQL Server, Solid, DDD, Agile(Scrum)
