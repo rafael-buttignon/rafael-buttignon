@@ -60,4 +60,3 @@ In this field, I have a deep understanding of data analysis, best practices, imp
       </details>
    </body>
 </html>
-⭐️ From [Rafael](https://github.com/rafael-buttignon)
