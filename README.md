@@ -22,12 +22,8 @@ In this field, I have a deep understanding of data analysis, best practices, imp
 <br />
 
 # 💻 Tech Stack & Personal Stuffs
-
-<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
-
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/XZVKFzo0JBnKCNXd0E/giphy.gif" width="500" height="320" />
   
-**Talking about Personal Stuffs:**
+**Talking about Me:**
 
 - 👨🏽‍💻 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 𝚒𝚖𝚙𝚛𝚘𝚟𝚒𝚗𝚐 𝚖𝚢 𝚝𝚎𝚌𝚑𝚜𝚔𝚒𝚕𝚕s and softskills;
 - 🎉 Achievement : AZ-900 ✔️ | AZ-104 ✔️ |
