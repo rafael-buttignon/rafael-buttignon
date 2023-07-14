@@ -46,8 +46,7 @@ In this field, I have a deep understanding of data analysis, best practices, imp
             <div>
                <b>
                   <h3>My Stats</h3>
-                  <a href="https://github.com/rafael-buttignon/github-readme-stats/actions">
-                  <img alt="gauravghongde's github stats" src="https://github-readme-stats-gaurav.vercel.app/api?username=rafael-buttignon&show_icons=true&title_color=4078c0&icon_color=6cc644&text_color=333&bg_color=f5f5f5"/>
+                  <img src="https://github-readme-stats-wheat-two-53.vercel.app/api?username=rafael-buttignon&theme=neon&hide_border=false&include_all_commits=false&count_private=false"  width="364px" />
                   </a>
                   <br>
                        <br>
