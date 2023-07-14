@@ -1,4 +1,4 @@
-### Hey 👋🏽, I'm [Rafael Buttignon!]<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
+### Hey 👋🏽, I'm Rafael Buttignon!<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
 <a href="https://www.linkedin.com/in/rafael-augusto-buttignon-6b120a171/" target="_blank"></a>
          <a href="https://www.linkedin.com/in/rafael-augusto-buttignon-6b120a171/">
@@ -13,7 +13,16 @@
 <br />
 <br />
 
-𝑯𝒊, 𝑰'𝒎 Rafael Buttignon, 𝒂 𝑭𝒖𝒍𝒍 𝑺𝒕𝒂𝒄𝒌 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓 🚀 𝒇𝒓𝒐𝒎 Brazil 𝒄𝒖𝒓𝒓𝒆𝒏𝒕𝒍𝒚, 𝑰'𝒎 𝒂 𝑺𝒐𝒇𝒕𝒘𝒂𝒓𝒆 𝑬𝒏𝒈𝒊𝒏𝒆𝒆𝒓. 𝑰'𝒎 𝒂 𝒄𝒓𝒆𝒂𝒕𝒊𝒗𝒆 𝒑𝒓𝒐𝒃𝒍𝒆𝒎 𝒔𝒐𝒍𝒗𝒊𝒏𝒈 𝒆𝒏𝒕𝒉𝒖𝒔𝒊𝒂𝒔𝒕, 𝒘𝒊𝒕𝒉 𝒂 𝒄𝒐𝒏𝒔𝒕𝒂𝒏𝒕𝒍𝒚 𝒈𝒓𝒐𝒘𝒊𝒏𝒈 𝒍𝒐𝒗𝒆 𝒇𝒐𝒓 𝘾𝙡𝙤𝙪𝙙 𝘾𝙤𝙢𝙥𝙪𝙩𝙞𝙣𝙜.
+# 👋 Hi there
+
+I'm Rafael Buttignon, a passionate software developer and tech enthusiast. I currently work as a Data Platform Engineer at AmbevTech. With over 5 years of experience in the field, I've had the opportunity to work on various exciting projects and explore different technologies.
+
+# 🚀 Expertise
+
+At the beginning of my career, I had the opportunity to work on various projects and technologies, covering both front-end and back-end development. This diverse experience has provided me with extensive knowledge in multiple areas. For a long period, I worked as a full-stack developer, but currently, my main focus is in the field of data, specifically data platforms and big data.
+
+In this field, I have a deep understanding of data analysis, best practices, implementation of tools and technologies, scalability, high performance, and everything related to the data domain. My goal is to utilize this expertise to make significant contributions in the data field, ensuring that projects are successful and meet the needs of clients.
+
 
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 
@@ -21,11 +30,8 @@
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 𝚒𝚖𝚙𝚛𝚘𝚟𝚒𝚗𝚐 𝚖𝚢 𝚝𝚎𝚌𝚑𝚜𝚔𝚒𝚕𝚕;
-- 🌱 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 Azure; 
+- 👨🏽‍💻 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 𝚒𝚖𝚙𝚛𝚘𝚟𝚒𝚗𝚐 𝚖𝚢 𝚝𝚎𝚌𝚑𝚜𝚔𝚒𝚕𝚕s and softskills;
 - 🎉 Achievement : AZ-900 ✔️ DONE! | AZ-104 ✔️ DONE!
-- 👯 𝙸’𝚖 want obtain the Microsoft Exam 
-      AZ-303, AZ-304, AZ-500 
 - 💬 𝙰𝚜𝚔 𝚖𝚎 𝚊𝚋𝚘𝚞𝚝 𝚊𝚗𝚢𝚝𝚑𝚒𝚗𝚐, 𝙸 𝚊𝚖 𝚑𝚊𝚙𝚙𝚢 𝚝𝚘 𝚑𝚎𝚕𝚙;
 - ⚡️ 𝙵𝚞𝚗-𝙵𝚊𝚌𝚝: 𝙰𝚗𝚢𝚝𝚑𝚒𝚗𝚐 𝚒𝚜 𝚙𝚘𝚜𝚜𝚒𝚋𝚕𝚎;
 - 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎: [E-mail](mailto:rafaaugustocontato@gmail.com)
@@ -60,8 +66,5 @@
       </details>
    </body>
 </html>
-
-
-
 
 ⭐️ From [Rafael](https://github.com/rafael-buttignon)
