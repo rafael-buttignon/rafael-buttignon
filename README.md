@@ -34,7 +34,7 @@ In this field, I have a deep understanding of data analysis, best practices, imp
 <html>
       <dl>
          <dt>Languages, Frameworks or Technologies :</dt>
-         <dd>Python, Spark, PySpark, Azure, Databricks, Data Factory, ADLS Gen2, Airflow, Docker, Kubernets, DataDog, OOP, SOLID, Design Patterns, Clean Documentation, Unit and Integrated tests, Mensagerias, Gestão de dados, Data Lakes, ETL, C#, TypeScript, HTML5, CSS3, Angular, Bootstrap, Sass, Git, Github, SQL, MySql, Postgres, 
+         <dd>Python, Spark, PySpark, Azure, Databricks, Data Factory, ADLS Gen2, Airflow, Docker, Kubernets, DataDog, OOP, SOLID, Design Patterns, Clean Documentation, Unit and Integrated Tests, Mensagerias, Gestão de dados, Data Lakes, ETL, C#, TypeScript, HTML5, CSS3, Angular, Bootstrap, Sass, Git, Github, GitFlow, SQL, MySql, Postgres, Scrum, Etc...
          </dd>
       </dl>
       <details align="center">
