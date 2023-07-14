@@ -26,7 +26,7 @@ In this field, I have a deep understanding of data analysis, best practices, imp
 **Talking about Me:**
 
 - 👨🏽‍💻 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 𝚒𝚖𝚙𝚛𝚘𝚟𝚒𝚗𝚐 𝚖𝚢 𝚝𝚎𝚌𝚑𝚜𝚔𝚒𝚕𝚕s and softskills;
-- 🎉 Achievement : AZ-900 ✔️ | AZ-104 ✔️ |
+- 🎉 Achievement : AZ-900 ✔️ | AZ-104 ✔️
 - 💬 𝙰𝚜𝚔 𝚖𝚎 𝚊𝚋𝚘𝚞𝚝 𝚊𝚗𝚢𝚝𝚑𝚒𝚗𝚐, 𝙸 𝚊𝚖 𝚑𝚊𝚙𝚙𝚢 𝚝𝚘 𝚑𝚎𝚕𝚙;
 - ⚡️ 𝙵𝚞𝚗-𝙵𝚊𝚌𝚝: 𝙰𝚗𝚢𝚝𝚑𝚒𝚗𝚐 𝚒𝚜 𝚙𝚘𝚜𝚜𝚒𝚋𝚕𝚎;
 - 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎: [E-mail](mailto:rafaaugustocontato@gmail.com)
@@ -34,10 +34,7 @@ In this field, I have a deep understanding of data analysis, best practices, imp
 <html>
       <dl>
          <dt>Languages, Frameworks or Technologies :</dt>
-         <dd>Python, C#, .Net Framework, .Net Core, Asp.Net, Microservices,
-                  JavaScript, TypeScript, HTML5, CSS3, 
-                  Angular 5+, Bootstrap, Sass, Git,
-                  SQL Server, Solid, DDD, Agile(Scrum)
+         <dd>Python, Spark, PySpark, Azure, Databricks, Data Factory, ADLS Gen2, Airflow, Docker, Kubernets, DataDog, OOP, SOLID, Design Patterns, Clean Documentation, Unit and Integrated tests, Mensagerias, Gestão de dados, Data Lakes, ETL, C#, TypeScript, HTML5, CSS3, Angular, Bootstrap, Sass, Git, Github, SQL, MySql, Postgres, 
          </dd>
       </dl>
       <details align="center">
@@ -47,7 +44,6 @@ In this field, I have a deep understanding of data analysis, best practices, imp
                <b>
                   <h3>My Stats</h3>
                   <img src="https://github-readme-stats-wheat-two-53.vercel.app/api?username=rafael-buttignon&theme=neon&hide_border=false&include_all_commits=false&count_private=false"  width="364px" />                    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rafael-buttignon&theme=neon&hide_border=false"  width="400px" />
-
 </a>
                   <br>
                        <br>
