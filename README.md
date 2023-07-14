@@ -1,8 +1,4 @@
-### Hey 👋🏽, I'm Rafael Buttignon!<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
-
-
-
-# 👋 Hi there
+# Hi there 👋🏽, I'm Rafael Buttignon!<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
 I'm Rafael Buttignon, a passionate software developer and tech enthusiast. I currently work as a Data Platform Engineer at AmbevTech. With over 5 years of experience in the field, I've had the opportunity to work on various exciting projects and explore different technologies.
 
