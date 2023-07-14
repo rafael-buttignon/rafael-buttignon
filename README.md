@@ -9,8 +9,8 @@ At the beginning of my career, I had the opportunity to work on various projects
 In this field, I have a deep understanding of data analysis, best practices, implementation of tools and technologies, scalability, high performance, and everything related to the data domain. My goal is to utilize this expertise to make significant contributions in the data field, ensuring that projects are successful and meet the needs of clients.
 
 # 🌐 Socials:
-<a href="https://www.linkedin.com/in/rafael-augusto-buttignon-6b120a171/" target="_blank"></a>
-         <a href="https://www.linkedin.com/in/rafael-augusto-buttignon-6b120a171/">
+<a href="https://www.linkedin.com/in/rafael-buttignon-6b120a171/" target="_blank"></a>
+         <a href="https://www.linkedin.com/in/rafael-buttignon-6b120a171/">
          <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/LinkedIN_black.png" width="32" height="32"/>
          </a>
          <a href="https://www.instagram.com/rafaaugustt/">
