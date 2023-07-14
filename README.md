@@ -21,6 +21,8 @@ In this field, I have a deep understanding of data analysis, best practices, imp
          </a>
 <br />
 
+# 💻 Tech Stack & Personal Stuffs
+
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/XZVKFzo0JBnKCNXd0E/giphy.gif" width="500" height="320" />
