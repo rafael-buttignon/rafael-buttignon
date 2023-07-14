@@ -1,17 +1,6 @@
 ### Hey 👋🏽, I'm Rafael Buttignon!<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
-<a href="https://www.linkedin.com/in/rafael-augusto-buttignon-6b120a171/" target="_blank"></a>
-         <a href="https://www.linkedin.com/in/rafael-augusto-buttignon-6b120a171/">
-         <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/LinkedIN_black.png" width="32" height="32"/>
-         </a>
-         <a href="https://www.instagram.com/rafaaugustt/">
-         <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/Instagram_black.png" width="32" height="32"/>
-         </a>
-         <a href="mailto:rafaaugustocontato@gmail.com">
-         <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/Gmail_black.png" width="32" height="32"/>
-         </a>
-<br />
-<br />
+
 
 # 👋 Hi there
 
@@ -23,6 +12,18 @@ At the beginning of my career, I had the opportunity to work on various projects
 
 In this field, I have a deep understanding of data analysis, best practices, implementation of tools and technologies, scalability, high performance, and everything related to the data domain. My goal is to utilize this expertise to make significant contributions in the data field, ensuring that projects are successful and meet the needs of clients.
 
+# 🌐 Socials:
+<a href="https://www.linkedin.com/in/rafael-augusto-buttignon-6b120a171/" target="_blank"></a>
+         <a href="https://www.linkedin.com/in/rafael-augusto-buttignon-6b120a171/">
+         <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/LinkedIN_black.png" width="32" height="32"/>
+         </a>
+         <a href="https://www.instagram.com/rafaaugustt/">
+         <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/Instagram_black.png" width="32" height="32"/>
+         </a>
+         <a href="mailto:rafaaugustocontato@gmail.com">
+         <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/Gmail_black.png" width="32" height="32"/>
+         </a>
+<br />
 
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 
@@ -31,7 +32,7 @@ In this field, I have a deep understanding of data analysis, best practices, imp
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 𝚒𝚖𝚙𝚛𝚘𝚟𝚒𝚗𝚐 𝚖𝚢 𝚝𝚎𝚌𝚑𝚜𝚔𝚒𝚕𝚕s and softskills;
-- 🎉 Achievement : AZ-900 ✔️ DONE! | AZ-104 ✔️ DONE!
+- 🎉 Achievement : AZ-900 ✔️ | AZ-104 ✔️ |
 - 💬 𝙰𝚜𝚔 𝚖𝚎 𝚊𝚋𝚘𝚞𝚝 𝚊𝚗𝚢𝚝𝚑𝚒𝚗𝚐, 𝙸 𝚊𝚖 𝚑𝚊𝚙𝚙𝚢 𝚝𝚘 𝚑𝚎𝚕𝚙;
 - ⚡️ 𝙵𝚞𝚗-𝙵𝚊𝚌𝚝: 𝙰𝚗𝚢𝚝𝚑𝚒𝚗𝚐 𝚒𝚜 𝚙𝚘𝚜𝚜𝚒𝚋𝚕𝚎;
 - 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎: [E-mail](mailto:rafaaugustocontato@gmail.com)
