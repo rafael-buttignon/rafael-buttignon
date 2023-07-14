@@ -46,7 +46,8 @@ In this field, I have a deep understanding of data analysis, best practices, imp
             <div>
                <b>
                   <h3>My Stats</h3>
-                  <img src="https://github-readme-stats-wheat-two-53.vercel.app/api?username=rafael-buttignon&theme=neon&hide_border=false&include_all_commits=false&count_private=false" width="364px" />
+                  <img src="https://github-readme-stats-wheat-two-53.vercel.app/api?username=rafael-buttignon&theme=neon&hide_border=false&include_all_commits=false&count_private=false"  width="364px" />                    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rafael-buttignon&theme=neon&hide_border=false"  width="400px" />
+
                   </a>
                   <br>
                        <br>
